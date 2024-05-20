@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP2\NguyenManhHung_He172300\NguyenManhHung_He172300\bin\Debug\net8.0\NguyenManhHung_He172300.exe
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP2\NguyenManhHung_He172300\NguyenManhHung_He172300\bin\Debug\net8.0\NguyenManhHung_He172300.deps.json
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP2\NguyenManhHung_He172300\NguyenManhHung_He172300\bin\Debug\net8.0\NguyenManhHung_He172300.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP2\NguyenManhHung_He172300\NguyenManhHung_He172300\bin\Debug\net8.0\NguyenManhHung_He172300.dll
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP2\NguyenManhHung_He172300\NguyenManhHung_He172300\bin\Debug\net8.0\NguyenManhHung_He172300.pdb
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP2\NguyenManhHung_He172300\NguyenManhHung_He172300\obj\Debug\net8.0\NguyenManhHung_He172300.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP2\NguyenManhHung_He172300\NguyenManhHung_He172300\obj\Debug\net8.0\NguyenManhHung_He172300.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP2\NguyenManhHung_He172300\NguyenManhHung_He172300\obj\Debug\net8.0\NguyenManhHung_He172300.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP2\NguyenManhHung_He172300\NguyenManhHung_He172300\obj\Debug\net8.0\NguyenManhHung_He172300.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP2\NguyenManhHung_He172300\NguyenManhHung_He172300\obj\Debug\net8.0\NguyenManhHung_He172300.dll
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP2\NguyenManhHung_He172300\NguyenManhHung_He172300\obj\Debug\net8.0\refint\NguyenManhHung_He172300.dll
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP2\NguyenManhHung_He172300\NguyenManhHung_He172300\obj\Debug\net8.0\NguyenManhHung_He172300.pdb
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP2\NguyenManhHung_He172300\NguyenManhHung_He172300\obj\Debug\net8.0\NguyenManhHung_He172300.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP2\NguyenManhHung_He172300\NguyenManhHung_He172300\obj\Debug\net8.0\ref\NguyenManhHung_He172300.dll
